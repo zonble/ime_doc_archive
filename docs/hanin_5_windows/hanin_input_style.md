@@ -1,3 +1,8 @@
+---
+title: 輸入風格設定
+summary: 取自 HANIN_ONLINE.HELP
+---
+
 # 输入風格設定
 
 ## 設定智慈型提示

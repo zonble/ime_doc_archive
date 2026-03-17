@@ -12,7 +12,7 @@ summary: 取自 HANIN_ONLINE.HELP
 5. 5.0 版保持 4.02 版功能，新增的功能有
     * [輸入風格](hanin_input_style.md)的選用。
     * 單鍵“Shift”切換英數／漢音
-    * [重複句庫](repeated_phrases)的選用
+    * [重複句庫](repeated_phrases.md)的選用
     * [自定功能鍵](keys_customize.md)，[功能鈕](buttons.md)
     * 線上使用說明
     * 追加旅遊專業辭典，可輸入觀光旅遊名勝如“錫安公園”﹑“優勝美地”﹑“水濂洞”﹑“睡獅岩”等，以及世界各國首都名稱等。

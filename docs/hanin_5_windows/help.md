@@ -27,6 +27,6 @@ summary: 取自 HANIN_ONLINE.HELP
 
 - [自動學習](auto_learn_phrases.md)
 
-- [重複字庫](repeated_phrases)
+- [重複字庫](repeated_phrases.md)
 - [文字查詢](query.md)
 - [特殊符號選擇表](symbols.md)

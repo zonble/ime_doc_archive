@@ -7,8 +7,8 @@ summary: 取自 HANIN_ONLINE.HELP
 
 取自 HANIN_ONLINE.HELP
 
-* [5.0 特性解說](features.md): 說明漢音輸入法 5.0 的特性與新增功能
-* [功能鍵一覽表](keys.md): 由功能鍵說明漢音的操作方法
+- [5.0 特性解說](features.md): 說明漢音輸入法 5.0 的特性與新增功能
+- [功能鍵一覽表](keys.md): 由功能鍵說明漢音的操作方法
 
 ## 目錄
 
@@ -27,6 +27,8 @@ summary: 取自 HANIN_ONLINE.HELP
 - [自建辭維護](user_added_phrases_maintain.md)
 - [自動學習](auto_learn_phrases.md)
 - [自動轉換](auto_convert.md)
+- [行內游標跟隨](in_the_spot.md)
+- [快速功能鈕](quick_buttons.md)
 
 - [重複字庫](repeated_phrases.md)
 - [文字查詢](query.md)

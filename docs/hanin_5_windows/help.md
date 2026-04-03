@@ -24,8 +24,9 @@ summary: 取自 HANIN_ONLINE.HELP
 - [自訂快速鍵](keys_customize.md)
 - [自定注音鍵盤](user_layout.md)
 - [自建辭](user_added_phrases.md)
-
+- [自建辭維護](user_added_phrases_maintain.md)
 - [自動學習](auto_learn_phrases.md)
+- [自動轉換](auto_convert.md)
 
 - [重複字庫](repeated_phrases.md)
 - [文字查詢](query.md)

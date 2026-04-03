@@ -1,5 +1,5 @@
 ---
-title: 快速功能紐
+title: 快速功能鈕
 summary: 取自 HANIN_ONLINE.HELP
 ---
 

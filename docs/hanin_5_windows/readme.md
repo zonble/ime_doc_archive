@@ -7,7 +7,7 @@ summary: 取自 Readme95.txt
 
 系統方面：
 
-1. 修改安裝程式，使漢音輸入法也可以安装到 windows NTWorkstation 4.0 F Windows 2800 •注意事項：
+1. 修改安裝程式，使漢音輸入法也可以安装到 windows NTWorkstation 4.0 F Windows 2800 。注意事項：
 
 - a. 安装之使用者屬於"Admistrators”群組，則工作群組的設定是屬於所有使用者區域，而且會自動新增漢音輸入法及漢音城牆。
 - b. 安裝之使用者屬於"Users"，"Backup Operators", "Power Users", "Replicator"群組，則工作群組的設定是屬於個別區域，而且須由使用者人工新增漢音輸入法，但漢音城牆不會自動新增，須 relogon 或啓動會要求輸入法之應用程式，如小作家等。

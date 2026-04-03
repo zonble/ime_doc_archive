@@ -28,8 +28,10 @@ summary: 取自 HANIN_ONLINE.HELP
 - [自動學習](auto_learn_phrases.md)
 - [自動轉換](auto_convert.md)
 - [行內游標跟隨](in_the_spot.md)
-- [快速功能鈕](quick_buttons.md)
-
+- [快速功能鈕](buttons.md)
+- [姓名詞典](names.md)
 - [重複字庫](repeated_phrases.md)
+- [略語展開功能](expand_phrases.md)
+
 - [文字查詢](query.md)
 - [特殊符號選擇表](symbols.md)

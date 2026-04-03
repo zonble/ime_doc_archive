@@ -34,13 +34,13 @@
 
 ## 安裝說明：
 
-3. 漢音輸入法 v5.0 共包含三個部份： -（1） 主程式：Hanin v5.0 -（2） 設定面板：HaninSetup v5.0 -（3） 辭典：3 個主要辭典以及 14 個專業辭典
-4. 將漢音辭魚輸入法主程式 “Hanin V5.O”拷貝到“系統檔案夾”（System Folder）內的“延伸功能”
+1. 漢音輸入法 v5.0 共包含三個部份： -（1） 主程式：Hanin v5.0 -（2） 設定面板：HaninSetup v5.0 -（3） 辭典：3 個主要辭典以及 14 個專業辭典
+2. 將漢音辭魚輸入法主程式 “Hanin V5.O”拷貝到“系統檔案夾”（System Folder）內的“延伸功能”
    （Extensions）檔案夾內。
-5. 將漢音設定控制面板 “HaninSetup v5.O”拷貝到“系統檔案夾”（System Folder） 內的“控制面版”（Control Panels） 檔案夾内。
-6. 將漢音系統辭典“HaninDic”，地址辭典 “AdrDic”，曖昧音辭典 “AimeiDic”拷貝到“系統檔案夾”（System Folder） 裡面的“Hanin5”檔案夾內。
-7. 將 14 個專業辭典拷貝到“系統檔案夾”（System Folder）裡面的“Hanin5”檔案夾裡面的“Expert” 檔案夾內。
-8. 重新開機，即可開始使用漢音。
+3. 將漢音設定控制面板 “HaninSetup v5.O”拷貝到“系統檔案夾”（System Folder） 內的“控制面版”（Control Panels） 檔案夾内。
+4. 將漢音系統辭典“HaninDic”，地址辭典 “AdrDic”，曖昧音辭典 “AimeiDic”拷貝到“系統檔案夾”（System Folder） 裡面的“Hanin5”檔案夾內。
+5. 將 14 個專業辭典拷貝到“系統檔案夾”（System Folder）裡面的“Hanin5”檔案夾裡面的“Expert” 檔案夾內。
+6. 重新開機，即可開始使用漢音。
 
 ## 功能使用說明：
 

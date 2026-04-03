@@ -38,4 +38,4 @@ summary: 取自 HANIN_ONLINE.HELP
 
 3. 如果您將漢音工具箱按鈕由快速按鈕欄中刪除後，您要再使用工具箱時，只要從控制台輸入法中漢音 5.0 的“內容”進入選用即可。
 
-[^inline]: 行內輸入風格: 當選擇「行內游標眼隨」時，輸入視窗會在欲輸入的位置下方，而狀態接鈕另外顯示。請參考[輸入視窗](hanin_input_window.md)或[輸入風格設定](hanin_input_style.md)。
+[^inline]: 行內輸入風格: 當選擇「行內游標跟隨隨」時，輸入視窗會在欲輸入的位置下方，而狀態按鈕另外顯示。請參考[輸入視窗](hanin_input_window.md)或[輸入風格設定](hanin_input_style.md)。

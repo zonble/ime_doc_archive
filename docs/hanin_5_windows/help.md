@@ -32,6 +32,8 @@ summary: 取自 HANIN_ONLINE.HELP
 - [姓名詞典](names.md)
 - [重複字庫](repeated_phrases.md)
 - [略語展開功能](expand_phrases.md)
+- [特殊符號功能鍵](symbols_key.md)
+- [特殊符號選擇](symbols.md)
+- [特殊符號選擇鈕](symbols_select_button.md)
 
-- [文字查詢](query.md)
-- [特殊符號選擇表](symbols.md)
+- [漢音文字查詢](query.md)

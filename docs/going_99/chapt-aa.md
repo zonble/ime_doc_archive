@@ -47,10 +47,12 @@ data-valign="TOP"><p>呼叫「設定視窗」,可進行設定參數</p></td>
 <td width="11%" data-valign="TOP">　</td>
 </tr>
 <tr>
-<td width="24%" data-valign="TOP">【CTRL】 + 【1】【CTRL】 + 【2】<br />
+<td width="24%" data-valign="TOP">【CTRL】 + 【1】<br/>
+【CTRL】 + 【2】<br />
 【CTRL】 + 【3】<br />
 【CTRL】 + 【4】</td>
-<td width="64%" data-valign="TOP">將輸入行中的一字詞存入輔助辭典中<br />
+<td width="64%" data-valign="TOP">
+將輸入行中的一字詞存入輔助辭典中<br />
 將輸入行中的二字詞存入輔助辭典中<br />
 將輸入行中的三字詞存入輔助辭典中<br />
 將輸入行中的四字詞存入輔助辭典中</td>

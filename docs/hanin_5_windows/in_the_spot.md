@@ -1,3 +1,7 @@
+---
+summary: 取自 HANIN_ONLINE.HELP
+---
+
 # 行內游標跟隨
 
 當選擇「行內游標跟隨」時，輸入視窗會在欲輸入的位置下方，而狀態按鈕另外顯示，請參考[輸入視窗](hanin_input_window.md)或[輸入風格設定](hanin_input_style.md)。

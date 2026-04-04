@@ -2,6 +2,9 @@ site_name: 輸入法文件存檔
 
 nav:
   - "index.md"
+  - "自然輸入法 99":
+      - "going_99/chapt0.md"
+      - "going_99/chapt1.md"
   - "漢音輸入法 macOS 5.0":
       - "hanin_5_macos/hanin_5_readme.md"
   - "漢音輸入法 Windows 5.02":

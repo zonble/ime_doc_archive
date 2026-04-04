@@ -1,5 +1,6 @@
 ---
 TITLE: 選擇讀音的輸入、顯示方式
+summary: 取自 HANIN_ONLINE.HELP
 ---
 
 ## 選擇讀音的輸入、顯示方式

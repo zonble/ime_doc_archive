@@ -1,6 +1,6 @@
 ---
 title: 漢音讀我檔案
-summary: 取自 Readme95.txt
+summary: 取自 HANIN_ONLINE.HELP
 ---
 
 # 漢音 5.02 試用版 （for windows 95/98/NT/2000）版更新內容

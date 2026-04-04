@@ -6,7 +6,8 @@ nav:
       - "ms_new_phonetic_98/index.md"
   - "微軟新倉頡輸入法 98":
       - "ms_new_cangjie_98/index.md"
-  - "倚天中文 2000 視窗":
+  - "倚天中文 2000":
+      - "et2000/index.md"
       - "et2000_box/index.md"
   - "自然輸入法 99":
       - "going_99/chapt0.md"
@@ -23,6 +24,7 @@ nav:
       - "going_99/chapt-ae.md"
   - "漢音輸入法 macOS 5.0":
       - "hanin_5_macos/hanin_5_readme.md"
+      - "hanin_5_macos/keys.md"
   - "漢音輸入法 Windows 5.02":
       - "hanin_5_windows/readme.md"
       - "hanin_5_windows/help.md"

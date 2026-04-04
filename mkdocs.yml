@@ -4,6 +4,8 @@ nav:
   - "index.md"
   - "微軟新注音輸入法 98":
       - "ms_new_phonetic_98/index.md"
+  - "微軟新倉頡輸入法 98":
+      - "ms_new_cangjie_98/index.md"
   - "自然輸入法 99":
       - "going_99/chapt0.md"
       - "going_99/chapt1.md"

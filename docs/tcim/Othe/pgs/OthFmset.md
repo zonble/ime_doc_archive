@@ -1,0 +1,11 @@
+<html>
+
+<head>
+<title>目錄表</title>
+<meta http-equiv="content-type" content="text/html;charset=big5">
+<meta name="GENERATOR" content="Claris Home Page 2.0" </head>
+<meta name="ROBOTS" content="NOINDEX">
+
+<body bgcolor="#FFFFFF">
+<p>This page is designed to be viewed by a browser which supports Netscape's Frames extension. This text will be shown by browsers which do not support the Frames extension.</p>
+</body>

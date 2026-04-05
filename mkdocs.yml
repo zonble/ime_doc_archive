@@ -28,6 +28,8 @@ nav:
   - "漢音輸入法 Windows 5.02":
       - "hanin_5_windows/readme.md"
       - "hanin_5_windows/help.md"
+  - "TCIM (macOS 9.2 繁體中文版)":
+      - "tcim/index.md"
 
 markdown_extensions:
   - footnotes

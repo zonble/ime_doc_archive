@@ -22,6 +22,11 @@
 -   在安裝自然輸入法 99 後，安裝目錄下有 HTML 格式的相關說明。
 -   軟體來自 [Internet Archive](https://archive.org/details/going99)
 
+## 漢音輸入法 4 macOS 版本
+
+-   取自安裝了 Mac OS 7.5 之後 Apple Extra 目錄下 Hanin Extra 目錄下的說明文件。
+-   在 Macintosh Garden 上可以找到中文版系統 https://macintoshgarden.org/apps/system-7x-chinese
+
 ## 漢音輸入法 5 macOS 版本
 
 -   文件取自 Mac OS 9 系統資料夾中的檔案。

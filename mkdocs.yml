@@ -22,6 +22,8 @@ nav:
       - "going_99/chapt-ac.md"
       - "going_99/chapt-ad.md"
       - "going_99/chapt-ae.md"
+  - "漢音輸入法 macOS 4.0":
+      - "hanin_4_macos/hanin_4_macos_readme.md"
   - "漢音輸入法 macOS 5.0":
       - "hanin_5_macos/hanin_5_readme.md"
       - "hanin_5_macos/keys.md"

@@ -27,6 +27,8 @@ nav:
   - "漢音輸入法 macOS 5.0":
       - "hanin_5_macos/hanin_5_readme.md"
       - "hanin_5_macos/keys.md"
+  - "漢音輸入法 Windows 4.02"
+
   - "漢音輸入法 Windows 5.02":
       - "hanin_5_windows/readme.md"
       - "hanin_5_windows/help.md"

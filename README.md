@@ -10,8 +10,10 @@
 -   微軟新倉頡輸入法 98
 -   倚天中文 2000
 -   自然輸入法 99
+-   漢音輸入法 4 for macOS
 -   漢音輸入法 5 for macOS
 -   漢音輸入法 5.02 for Windows
+-   Mac OS 9 繁體中文輸入法文件
 
 各套文件的來源與背景，見 [`docs/index.md`](docs/index.md)。
 
